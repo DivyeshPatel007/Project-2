@@ -12,4 +12,4 @@ In this Project I have learned about Background property and pseudo selector to 
  
  Project Link:
  
- (Project Link)[https://project-2-opal.vercel.app]
+ [Project Link](https://project-2-opal.vercel.app)
